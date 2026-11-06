@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34454631/README.md)# Atomic decay beyond the precision limit
+# Atomic decay beyond the precision limit
 
 **Is the 10⁻⁹ plateau in the decay of a two-state atom a numerical artifact? No. It is real, and this project shows where it comes from.**
 
@@ -114,4 +114,3 @@ p_exact = survival_mp(E_mp, w_mp, t)
 
 - The band edge formula evaluates A(E) at a distance 1/t from the edge, a simple treatment of its logarithmic variation. It is accurate to about 5% here (12% at the latest times in the continuum), not exact.
 - A real atom couples to an unbounded photon spectrum with an energy-dependent coupling. The plateau height found here belongs to this model, with its flat coupling and sharp band edges.
-
